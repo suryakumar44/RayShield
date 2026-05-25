@@ -9,6 +9,8 @@ class DoctorProfile extends StatelessWidget {
   // Theme Constants to match your app
   static const Color bgColor = Color(0xFF0D0D0D);
   static const Color cardColor = Color(0xFF1A1A1A);
+
+  
   static const Color accentColor = Color.fromARGB(255, 52, 240, 253);
 
   @override
